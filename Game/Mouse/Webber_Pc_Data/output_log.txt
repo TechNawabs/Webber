@@ -1,0 +1,62 @@
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 920M        (ID=0x1299)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: A:\My Files\My Projects\Unity Projects\Webber\Game\Mouse\Webber_Pc_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading A:\My Files\My Projects\Unity Projects\Webber\Game\Mouse\Webber_Pc_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: A:\My Files\My Projects\Unity Projects\Webber\Game\Mouse\Webber_Pc_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading A:\My Files\My Projects\Unity Projects\Webber\Game\Mouse\Webber_Pc_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.622 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: A:\My Files\My Projects\Unity Projects\Webber\Game\Mouse\Webber_Pc_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 1.114252 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 104.
+Total: 13.095189 ms (FindLiveObjects: 0.018602 ms CreateObjectMapping: 0.012188 ms MarkObjects: 0.114825 ms  DeleteObjects: 12.172099 ms)
+
+UnloadTime: 0.397718 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 170.
+Total: 3.786661 ms (FindLiveObjects: 0.008980 ms CreateObjectMapping: 0.008980 ms MarkObjects: 0.091090 ms  DeleteObjects: 3.045109 ms)
+
+UnloadTime: 0.321381 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 122.
+Total: 17.718985 ms (FindLiveObjects: 0.010905 ms CreateObjectMapping: 0.010263 ms MarkObjects: 0.109051 ms  DeleteObjects: 16.895323 ms)
+
+UnloadTime: 0.339984 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 170.
+Total: 16.091547 ms (FindLiveObjects: 0.010263 ms CreateObjectMapping: 0.010263 ms MarkObjects: 0.094939 ms  DeleteObjects: 14.945220 ms)
+
+UnloadTime: 0.322664 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 767.
+Total: 17.083918 ms (FindLiveObjects: 0.028225 ms CreateObjectMapping: 0.013471 ms MarkObjects: 0.177690 ms  DeleteObjects: 16.074226 ms)
+
+No path with that name () exists! Are you sure you wrote it correctly?
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at iTween.CleanArgs (System.Collections.Hashtable args) [0x00000] in <filename unknown>:0 
+  at iTween.MoveTo (UnityEngine.GameObject target, System.Collections.Hashtable args) [0x00000] in <filename unknown>:0 
+  at initialMov.OnMouseUp () [0x00000] in <filename unknown>:0 
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32, Int32)
+ 
+(Filename:  Line: -1)
+

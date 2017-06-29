@@ -1,0 +1,29 @@
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0x102)
+    Vendor:   Intel
+    VRAM:     64 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Akshay\My Files\Projects\Unity Projects\Webber\Game\Keyboard\Webber_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Akshay\My Files\Projects\Unity Projects\Webber\Game\Keyboard\Webber_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Akshay\My Files\Projects\Unity Projects\Webber\Game\Keyboard\Webber_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Akshay\My Files\Projects\Unity Projects\Webber\Game\Keyboard\Webber_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.190 seconds
+desktop: 1280x768 60Hz; virtual: 1280x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\Akshay\My Files\Projects\Unity Projects\Webber\Game\Keyboard\Webber_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 0.843547 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 753.
+Total: 14.569075 ms (FindLiveObjects: 0.038072 ms CreateObjectMapping: 0.012249 ms MarkObjects: 0.251276 ms  DeleteObjects: 13.756978 ms)
+
+UnloadTime: 1.250754 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 771.
+Total: 1.188515 ms (FindLiveObjects: 0.047673 ms CreateObjectMapping: 0.021850 ms MarkObjects: 0.325103 ms  DeleteObjects: 0.034430 ms)
+
